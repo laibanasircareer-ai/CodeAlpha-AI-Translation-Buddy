@@ -76,6 +76,23 @@ This feature is powered by the Groq API using an open-source large language mode
 
 * Groq API
 
+## Screenshots
+
+### Home Screen
+
+<img width="1887" height="983" alt="image" src="https://github.com/user-attachments/assets/991f5701-6291-44d9-ad11-f84a74b6c653" />
+<img width="1880" height="982" alt="image" src="https://github.com/user-attachments/assets/2ad7e58d-173e-45b5-aaac-95e4744f94c0" />
+<img width="1884" height="983" alt="image" src="https://github.com/user-attachments/assets/50a0e70d-024a-426b-b767-f8bcd189210f" />
+
+
+### Translation
+<img width="735" height="905" alt="image" src="https://github.com/user-attachments/assets/ddb6c040-0ef4-467e-a805-40bc3a98f7d4" />
+
+
+### AI Explanation
+<img width="848" height="633" alt="image" src="https://github.com/user-attachments/assets/055bc126-ed1e-4c87-a875-ab97409adca7" />
+
+
 ## Future Improvements
 
 * User authentication
